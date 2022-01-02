@@ -17,9 +17,9 @@
   letter-spacing: 8px;
   color: white;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px rgba(255, 255, 255, 0.623),
-    0 0 42px #5271ff, 0 0 82px #5271ff, 0 0 92px #5271ff !important;
+    0 0 42px #5271ff, 0 0 82px #5271ff, 0 0 92px #5271ff;
 
-  animation: flicker 1.5s infinite alternate !important;
+  animation: flicker 1.5s infinite alternate;
 }
 body {
   display: flex;
